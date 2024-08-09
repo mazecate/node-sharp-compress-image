@@ -1,0 +1,19 @@
+{
+  "name": "image-compression",
+  "version": "1.0.0",
+  "description": "A simple Node.js project to compress images using sharp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "image-compression",
+    "sharp",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.29.3"
+  }
+}
